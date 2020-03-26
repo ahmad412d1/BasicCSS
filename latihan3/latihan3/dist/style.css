@@ -1,0 +1,18 @@
+/* belajar mengenai text styling */
+h1 {
+	font-size: 40px;
+	color: rgb(182, 81, 225);
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.52em;
+}
+
+p {
+	text-align: justify;
+	text-indent: 100px;
+	word-spacing:10px;
+}
+
+a {
+	text-decoration: none;
+}

@@ -1,0 +1,7 @@
+body {
+    /* background-color: lightblue;
+    background-image: url(gambar/phinisi.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center; */
+    background: white url(gambar/phinisi.jpg) no-repeat top center; /* the order doesn't matter*/
+}
